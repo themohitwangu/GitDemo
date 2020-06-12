@@ -16,6 +16,8 @@ public class SeleniumTest
 	public void Elements_UI_Automation()
 	{
 		System.out.println("Elements_UI_Automation");
+		System.out.println("Elements_UI_Automation-2");
+		System.out.println("Elements_UI_Automation-3");
 	}
 	
 }
