@@ -22,4 +22,13 @@ public class SeleniumTest
 		System.out.println("Elements_UI_Automation-300");
 	}
 	
+	@Test
+	public void Elements_UI_Rotation()
+	{
+		System.out.println("Elements_UI_RAutomation-555");
+		System.out.println("Elements_UI_RAutomation-255");
+		System.out.println("Elements_UI_RAutomation-300");
+	}
+	
+	
 }
